@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi 👋, I'm Gabriela Jauhar
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+
+🔭 I'm currently working at <a href="https://newinter.com.br/">New Inter!</a>
+<br/>🔭 You can find my professional profile on <a href="https://www.linkedin.com/in/gabriela-jauhar/">LinkedIn</a>
+<br/>🔭 Feel free to contact me!
 
 <!--
 **Bmenaorun/Bmenaorun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
